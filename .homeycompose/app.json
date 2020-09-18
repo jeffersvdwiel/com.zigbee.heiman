@@ -1,0 +1,24 @@
+{
+  "id": "com.zigbee.heiman",
+  "version": "1.0.0",
+  "compatibility": "5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "Heiman Zigbee"
+  },
+  "description": {
+    "en": "support for heiman zigbee devices"
+  },
+  "category": [
+    "tools"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Jeffrey de Jong",
+    "email": "jeffersvdwiel@gmail.com"
+  }
+}
